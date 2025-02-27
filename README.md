@@ -1,2 +1,2 @@
 # Mastermind
-mastermind game
+mastermind game coded in python using tkinter 
